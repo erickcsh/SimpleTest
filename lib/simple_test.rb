@@ -1,0 +1,5 @@
+require_relative 'simple_test/compare'
+require_relative 'simple_test/console'
+require_relative 'simple_test/failing_test_error'
+require_relative 'simple_test/object'
+require_relative 'simple_test/runner'
